@@ -1,0 +1,15 @@
+{
+    "name": "erayaydin/placeholder",
+    "description": "Placeholder package for testing",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eray Aydın",
+            "email": "eray.aydin@ozguryazilim.com.tr"
+        }
+    ],
+    "require": {
+		"php": "^7.3|^8.0"
+	}
+}
